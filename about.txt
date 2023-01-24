@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome!
+
+ It's 2023-01-23 at 08:24 PM
+
+ This file is running on:    posix Darwin 19.6.0
+ 
+ The Python version is:      3.9.10
+ 
+ The Python interpreter is at: 
+ /usr/local/opt/python@3.9/bin/python3.9
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: base
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ /usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ /Users/ashleymersman/Desktop/datafun-02-functions
+ 
+ The absolute path to the data directory is:
+
+ /Users/ashleymersman/Desktop/datafun-02-functions/
+ 
+ The absolute path to this source directory is:
+
+ /Users/ashleymersman/Desktop/datafun-02-functions
+ 
+ The absolute path to this file is:
+
+ /Users/ashleymersman/Desktop/datafun-02-functions/about.py
+ 
+==============================================================
+==============================================================
+

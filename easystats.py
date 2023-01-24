@@ -17,7 +17,7 @@ Uses only Python Standard Library module:
 """
 
 import statistics
-import turtle
+#import turtle
 
 ready_for_chart = False  # edit this when ready
 

@@ -63,7 +63,9 @@ def add_any_with_keywords(**kwargs):
 # TODO: implment a new function to convert celsius to fahrenheit
 # Use round as needed to make the test pass
 # The name of the function is provided in the docstring above
-
+def convert_ctof(c):
+    temp = (c * 9/5) + 32
+    return temp
 
 if __name__ == "__main__":
 
